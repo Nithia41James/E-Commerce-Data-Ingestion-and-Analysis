@@ -1,0 +1,120 @@
+fiction,England,3056
+nonfiction,England,1273
+history,England,1166
+data_science,England,803
+philosophy,England,780
+science,England,575
+computer_science,England,531
+comic,England,515
+economics,England,505
+mathematics,England,259
+signal_processing,England,168
+psychology,England,37
+fiction,France,2320
+nonfiction,France,1087
+history,France,835
+philosophy,France,623
+data_science,France,580
+science,France,508
+computer_science,France,465
+economics,France,431
+comic,France,385
+mathematics,France,125
+signal_processing,France,99
+psychology,France,61
+fiction,Germany,2713
+nonfiction,Germany,1385
+history,Germany,1136
+philosophy,Germany,715
+data_science,Germany,629
+science,Germany,576
+comic,Germany,515
+economics,Germany,473
+computer_science,Germany,414
+mathematics,Germany,274
+signal_processing,Germany,112
+psychology,Germany,34
+fiction,Italy,2208
+nonfiction,Italy,918
+history,Italy,908
+philosophy,Italy,528
+data_science,Italy,485
+science,Italy,478
+comic,Italy,402
+economics,Italy,352
+computer_science,Italy,327
+mathematics,Italy,158
+signal_processing,Italy,93
+psychology,Italy,14
+fiction,Japan,1842
+nonfiction,Japan,867
+history,Japan,787
+data_science,Japan,470
+philosophy,Japan,422
+science,Japan,405
+comic,Japan,394
+computer_science,Japan,336
+economics,Japan,303
+mathematics,Japan,167
+signal_processing,Japan,87
+psychology,Japan,59
+fiction,Mexico,3010
+nonfiction,Mexico,1581
+history,Mexico,1250
+philosophy,Mexico,911
+data_science,Mexico,792
+science,Mexico,569
+comic,Mexico,566
+computer_science,Mexico,504
+economics,Mexico,362
+mathematics,Mexico,236
+signal_processing,Mexico,141
+psychology,Mexico,57
+fiction,Nigeria,2893
+nonfiction,Nigeria,1446
+history,Nigeria,1158
+data_science,Nigeria,774
+philosophy,Nigeria,670
+comic,Nigeria,611
+science,Nigeria,471
+computer_science,Nigeria,467
+economics,Nigeria,452
+mathematics,Nigeria,180
+signal_processing,Nigeria,136
+psychology,Nigeria,41
+fiction,Portugal,2685
+history,Portugal,1197
+nonfiction,Portugal,1058
+data_science,Portugal,759
+philosophy,Portugal,677
+economics,Portugal,490
+science,Portugal,478
+computer_science,Portugal,436
+comic,Portugal,428
+mathematics,Portugal,156
+signal_processing,Portugal,150
+psychology,Portugal,57
+fiction,Spain,2017
+nonfiction,Spain,846
+history,Spain,831
+data_science,Spain,542
+philosophy,Spain,528
+comic,Spain,505
+science,Spain,446
+computer_science,Spain,381
+economics,Spain,352
+mathematics,Spain,202
+signal_processing,Spain,88
+psychology,Spain,37
+fiction,United States,2287
+nonfiction,United States,1051
+history,United States,893
+philosophy,United States,587
+comic,United States,496
+science,United States,487
+data_science,United States,426
+computer_science,United States,388
+economics,United States,379
+mathematics,United States,126
+signal_processing,United States,102
+psychology,United States,43
